@@ -1,0 +1,8 @@
+../Core/Src/liquidcrystal_i2c.c:23:13:LCD_delay_us	2
+../Core/Src/liquidcrystal_i2c.c:37:6:LCD_DATA	5
+../Core/Src/liquidcrystal_i2c.c:89:6:LCD_CMD	5
+../Core/Src/liquidcrystal_i2c.c:143:6:LCD_CMD_4bit	3
+../Core/Src/liquidcrystal_i2c.c:172:6:LCD_INIT	1
+../Core/Src/liquidcrystal_i2c.c:205:6:LCD_XY	5
+../Core/Src/liquidcrystal_i2c.c:221:6:LCD_CLEAR	1
+../Core/Src/liquidcrystal_i2c.c:231:6:LCD_PUTS	2
